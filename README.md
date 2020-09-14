@@ -1,3 +1,3 @@
 # Neural-Sequence-Tagging
 
-My answers for this session of work
+My answers for the lab session
